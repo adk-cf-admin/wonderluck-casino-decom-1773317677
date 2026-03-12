@@ -1,0 +1,19 @@
+{
+  "name": "Wonderluck",
+  "short_name": "Wonderluck",
+  "theme_color": "",
+  "background_color": "#071520",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773316158-favicon-56.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

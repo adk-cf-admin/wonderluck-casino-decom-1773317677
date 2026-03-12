@@ -1,0 +1,196 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#071520",
+            "lang-select-color": "#222829",
+            "bg-light": "#071520",
+            "welcome-bonus-bg": "#071520",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0a1c29",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#A07646",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#A07646",
+            "yellow-button": "#184162",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#A07646",
+            "casino-cards": "#071520",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#A07646",
+            "providers-back": "#071520",
+            "faq-label": "#071520",
+            "bg-footer": "#071520",
+            "copyright": "#e7e7d5",
+            "starColor": "#A07646",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4314"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4316",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Wonderluck Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4317",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Wonderluck"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Wonderluck",
+                    "title": "Wonderluck Casino| 12.000+ Slots, 100% Bonus bis 500€, Euro-Auszahlungen",
+                    "description": " Offizielle Wonderluck Casino-Website für deutsche Spieler. Unsere Plattform bietet 12.000+ Spiele, Willkommensbonus bis 500€, Unterstützung für Euro und Kryptowährungen, lizenzierten Datenschutz und 24\/7-Support.",
+                    "canonical": "wonderluck-casino-de.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4318",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "wonderluck-casino-de.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4319"
+                },
+                "hero": {
+                    "title": "Wonderluck Casino: Lizenzierte Spiele, Boni bis 500€",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4320",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4321",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Erhalten",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        " Über 12.000 Spiele in unserer Bibliothek",
+                        "Unterstützung von Krypto und Fiat-Währungen",
+                        "24\/7-Support in mehreren Sprachen verfügbar",
+                        "Schnelle Bearbeitung von Auszahlungsanträgen",
+                        "Responsive Design für alle Geräte",
+                        "Transparente Bonusbedingungen für alle Spieler",
+                        "Regelmäßige Turniere mit attraktiven Preisen"
+                    ],
+                    "advantagesAfterText": "Wir bemühen uns, unseren Spielern eine komfortable und sichere Spielumgebung zu bieten. Unsere Plattform wurde nach modernen Qualitäts- und Komfortstandards entwickelt.\n",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Wonderluck App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4322",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Wonderluck App",
+                    "mobileGooglePlayImageTitle": "Wonderluck App",
+                    "mobileIosImageTitle": "Wonderluck App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Wonderluck",
+                        "description1": "Wir bieten faire Spielbedingungen. Unsere Plattform gewährleistet sofortige Auszahlungen.\n",
+                        "items": [
+                            "Gewinne bis zu 500.000€ bei progressiven Jackpots",
+                            "Willkommensbonus 100% bis zu 500 Euro",
+                            "Wöchentlicher Cashback bis zu 15% der Verluste"
+                        ],
+                        "description2": "Unser Casino ist eine moderne Spielplattform, die für Liebhaber von Glücksspielunterhaltung geschaffen wurde. Wir bieten eine umfangreiche Bibliothek mit über 12.000 Spielen, darunter Slots, Tischspiele und Live-Casino. Unser Team organisiert regelmäßig thematische Veranstaltungen und saisonale Aktionen, die Abwechslung ins Spielerlebnis bringen. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4323",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Das Bonusprogramm wurde unter Berücksichtigung der Bedürfnisse verschiedener Spielerkategorien entwickelt. Das Loyalty-Programm sieht mehrere Stufen vor, von denen jede neue Privilegien eröffnet. Teilnehmer des Programms erhalten persönliche Boni, erhöhten Cashback und Zugang zu exklusiven Turnieren. Wir veranstalten wöchentliche Wettbewerbe mit Preisfonds in Euro. Spezielle Angebote sind an Feiertage und bedeutende Ereignisse gebunden. Unser Belohnungssystem berücksichtigt die Aktivität des Spielers und seine Vorlieben. Regelmäßige Updates des Spielangebots ermöglichen es, immer etwas Neues zu finden. Wir arbeiten mit führenden Software-Anbietern zusammen. Das Live-Casino arbeitet in Echtzeit mit professionellen Dealern. Die Turniertabelle wird in Echtzeit aktualisiert, was Transparenz bei Wettbewerben gewährleistet. Ein persönlicher Manager steht Teilnehmern hoher Loyalitätsstufen zur Verfügung. Wir schätzen jeden Spieler und bemühen uns, das Spielerlebnis so komfortabel wie möglich zu gestalten. Unsere Plattform unterstützt mehrere Sprachen, einschließlich Deutsch. Alle Spiele sind zertifiziert und werden regelmäßig auf Fairness überprüft. Wir investieren in die Weiterentwicklung der Plattform und die Verbesserung der Benutzererfahrung."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Unterhaltung und Gaming im Wonderluck",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln und verantwortungsvolles Spielen\n<\/h3>\n<p>\nWir halten uns an hohe Standards der Verantwortung und Sicherheit. Der Zugang zu unserem Casino steht nur volljährigen Spielern offen. Wir verlangen eine obligatorische Identitätsprüfung zum Schutz der Konten. Die Erstellung mehrerer Konten durch einen Nutzer ist untersagt. Die Verwendung von Drittanbieter-Software zum Erlangen von Vorteilen ist nicht gestattet. Wir unterstützen die Grundsätze des verantwortungsvollen Spielens und bieten Selbstkontrollinstrumente an. Spieler können Limits für Einzahlungen, Einsätze und Sitzungszeit festlegen. Bei Verdacht auf problematisches Verhalten kann das Konto vorübergehend eingeschränkt werden. Wir arbeiten mit Organisationen zur Spielerunterstützung zusammen. Das Spielen aus Jurisdiktionen, in denen Glücksspiel gesetzlich eingeschränkt ist, ist untersagt. Regelverstöße können zur Kontosperrung und zum Verlust von Guthaben führen. Wir gewährleisten die Vertraulichkeit personenbezogener Daten unserer Nutzer. Alle Transaktionen werden auf Einhaltung der Plattformregeln überprüft. Spieler sind verpflichtet, bei der Registrierung wahrheitsgemäße Angaben zu machen. Wir behalten uns das Recht vor, zusätzliche Dokumente zur Verifizierung anzufordern. Verantwortungsvolles Spielen hat für unser Team höchste Priorität.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nZugangsbedingungen\n<\/h4>\n<ul>\n<li>• Registrierung nur für Personen über 18 Jahre, Identitätsbestätigung, ein Konto pro Nutzer<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbotene Handlungen\n<\/h4>\n<ul>\n<li>• Verwendung von Bots, Absprachen zwischen Spielern, Umgehung von Limits, Spielen aus verbotenen Regionen<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSelbstkontrollinstrumente\n<\/h4>\n<ul>\n<li>• Einzahlungslimits, Einsatzlimits, Session-Zeitlimits, Möglichkeit zur Selbstsperre<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUnterstützungsangebote\n<\/h4>\n<ul>\n<li>• Kontakte zu Hilfsorganisationen, Zugriff auf Spielverlauf, Anfrage von Aktivitätsberichten<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSicherheit und Lizenzierung unserer Plattform\n<\/h3>\n<p>\nUnser Casino operiert auf Grundlage einer Lizenz, die von einer Regulierungsbehörde erteilt wurde, was die Einhaltung internationaler Standards der Glücksspielindustrie gewährleistet. Wir setzen fortschrittliche SSL-Verschlüsselungstechnologien ein, um die Datenübertragung zwischen Nutzern und unseren Servern zu schützen. Alle vertraulichen Informationen, einschließlich personenbezogener Daten und Finanzangaben, werden verschlüsselt gespeichert. Unsere Datenschutzrichtlinie regelt klar die Erhebung, Nutzung und Speicherung von Nutzerinformationen. Wir geben Daten nicht an Dritte weiter, außer in gesetzlich vorgesehenen Fällen. Regelmäßige Audits durch unabhängige Organisationen bestätigen die Fairness des Spielprozesses und die Korrektheit des Zufallszahlengenerators. Wir erfüllen die Anforderungen der Regulierungsbehörden im Bereich der Geldwäschebekämpfung und der Verhinderung der Finanzierung illegaler Aktivitäten. Nur autorisierte, speziell geschulte Mitarbeiter haben Zugang zu personenbezogenen Daten. Wir aktualisieren kontinuierlich unsere Sicherheitssysteme, um neuen Cyberbedrohungen zu begegnen. Nutzer können jederzeit eine Kopie ihrer Daten anfordern oder deren Löschung gemäß geltendem Recht verlangen.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLizenz und Regulierung\n<\/h4>\n<ul>\n<li>• Betrieb unter Aufsicht einer anerkannten Glücksspielbehörde<\/li>\n<li>• Einhaltung internationaler Compliance-Standards<\/li>\n<li>• Regelmäßige Überprüfung durch unabhängige Prüfstellen<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDatenschutz und Verschlüsselung\n<\/h4>\n<ul>\n<li>• SSL-Verschlüsselung für alle Datenübertragungen<\/li>\n<li>• Speicherung sensibler Daten in verschlüsselter Form<\/li>\n<li>• Strikte Zugriffskontrollen für Mitarbeiter<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFinanztransaktionen und Limits\n<\/h3>\n<p>\nWir bieten eine breite Auswahl an Methoden für Einzahlungen und Auszahlungen, damit jeder Spieler die bequemste Option wählen kann. Alle Transaktionen sind durch ein mehrstufiges Sicherheitssystem geschützt, einschließlich Zwei-Faktor-Authentifizierung und Überwachung verdächtiger Aktivitäten. Kontoauffüllungen erfolgen sofort bei Nutzung von E-Wallets und Kryptowährungen, Banküberweisungen können bis zu drei Werktage dauern. Auszahlungen werden innerhalb von 24 Stunden nach Genehmigung bearbeitet, die tatsächliche Gutschrift hängt von der gewählten Methode ab. Wir erheben keine Gebühren für interne Transaktionen, Zahlungsanbieter können jedoch eigene Tarife anwenden. Die minimale Einzahlung beträgt 10 Euro, was die Plattform für Spieler mit unterschiedlichem Budget zugänglich macht. Für Auszahlungen gilt ein Mindestbetrag von 20 Euro. Maximale Limits hängen vom Verifizierungslevel und dem Status im Loyalty-Programm ab. Das tägliche Auszahlungslimit für Standardkonten beträgt 5.000 Euro, wöchentlich 20.000 Euro, monatlich 75.000 Euro. Teilnehmer höherer Loyalitätsstufen können erhöhte Limits und priorisierte Bearbeitung erwarten. Kryptowährungstransaktionen werden mit höherer Geschwindigkeit bearbeitet und unterliegen separaten Limits. Wir unterstützen Euro als Hauptwährung für Spieler aus Deutschland. Alle Finanztransaktionen werden in Echtzeit im persönlichen Konto angezeigt. Bei Fragen steht unser Support-Team bereit, um detaillierte Informationen zu jeder Transaktion bereitzustellen.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #A07646;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-3 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Krypto<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 1 Stunde<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Überweisung<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-3 Tage<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">3-5 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAuszahlungslimits\n<\/h4>\n<ul>\n<li>• Minimale Auszahlung: 20 Euro<\/li>\n<li>• Maximale tägliche Auszahlung: 5.000 Euro (Standard), bis 25.000 Euro (VIP)<\/li>\n<li>• Maximale monatliche Auszahlung: 75.000 Euro (Standard), bis 150.000 Euro (VIP)<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nKundensupport und Verfügbarkeit\n<\/h3>\n<p>\nUnser Support-Team arbeitet rund um die Uhr und an allen Wochentagen, damit Spieler jederzeit Hilfe erhalten können. Wir bieten mehrere Kontaktmöglichkeiten: Live-Chat auf der Website, E-Mail-Support und eine Telefonleitung für dringende Anfragen. Die durchschnittliche Antwortzeit im Chat beträgt weniger als zwei Minuten, was eine schnelle Lösung aufkommender Probleme ermöglicht. Unsere Mitarbeiter durchlaufen regelmäßige Schulungen und beherrschen mehrere Sprachen, darunter Deutsch, Englisch und Russisch. Wir bemühen uns, qualitativ hochwertige und umfassende Antworten auf alle Nutzeranfragen zu geben. Im persönlichen Konto steht eine FAQ-Datenbank mit detaillierten Anleitungen zur Verfügung. Für komplexe Fälle ist eine Eskalation an einen Senior-Spezialisten vorgesehen. Wir schätzen Feedback und verbessern kontinuierlich die Servicequalität basierend auf Spielerbewertungen. Alle Anfragen werden im System protokolliert, was die Nachverfolgung des Interaktionsverlaufs ermöglicht. Unser Team steht bei Fragen zu Registrierung, Verifizierung, Boni, Spielen und Finanztransaktionen zur Verfügung. Wir verstehen die Bedeutung einer schnellen Lösung technischer Probleme und widmen diesem Aspekt besondere Aufmerksamkeit. Der Support ist sowohl über die Desktop- als auch über die mobile Version der Plattform verfügbar. Für Teilnehmer höherer Loyalitätsstufen ist ein persönlicher Manager vorgesehen. Wir gewährleisten die Vertraulichkeit aller Anfragen und geben Informationen nicht an Dritte weiter. Unser Ziel ist es, die Interaktion mit der Plattform so komfortabel und problemfrei wie möglich zu gestalten.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKontaktmöglichkeiten\n<\/h4>\n<ul>\n<li>• 24\/7 Live-Chat, E-Mail-Support, Telefon für Notfälle<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAntwortzeiten\n<\/h4>\n<ul>\n<li>• Chat: bis 2 Minuten, E-Mail: bis 4 Stunden, Telefon: sofortige Verbindung<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerfügbare Sprachen\n<\/h4>\n<ul>\n<li>• Deutsch, Englisch, Russisch, Finnisch, Polnisch<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nZusätzliche Services\n<\/h4>\n<ul>\n<li>• Wissensdatenbank, Video-Anleitungen, persönlicher Manager für VIP-Spieler<\/li>\n<\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Wonderluck: Ihr Komfort — Regeln, Sicherheit, Support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty-Programm und Vorteile für Stammkunden\n<\/h3>\n<p>\nUnser Loyalty-Programm wurde entwickelt, um Spieler für ihre Aktivität und Treue zur Plattform zu belohnen. Die Registrierung im Programm erfolgt automatisch bei der Kontoerstellung, ohne dass zusätzliche Anträge erforderlich sind. Das System sieht mehrere Stufen vor, von denen jede neue Möglichkeiten und Vorteile eröffnet. Spieler sammeln Loyalitätspunkte für jeden getätigten Einsatz, unabhängig vom Spielergebnis. Je höher die Stufe, desto mehr Punkte werden für dieselbe Aktivität gutgeschrieben. Teilnehmer des Programms erhalten Zugang zu exklusiven Boni, persönlichen Angeboten und priorisiertem Support. Auf der Einstiegsebene erhalten Spieler einen Basis-Cashback von 5% und Zugang zu Standardaktionen. Beim Aufstieg zur zweiten Stufe erhöht sich der Cashback auf 8%, zudem wird der Zugang zu wöchentlichen Freispielen freigeschaltet. Die dritte Stufe bietet 10% Cashback, einen persönlichen Manager und erhöhte Auszahlungslimits. Die höchste Programmstufe sieht bis zu 15% Cashback, individuelle Boni und Einladungen zu geschlossenen Veranstaltungen vor. Loyalitätspunkte können im speziellen Bereich des persönlichen Kontos gegen Bonusguthaben oder Freispiele eingetauscht werden. Der Teilnehmerstatus wird monatlich basierend auf der Aktivität des vorherigen Zeitraums aktualisiert. Wir veranstalten regelmäßig spezielle Aktionen für Programmteilnehmer mit verdoppelter Punktevergabe. Das Loyalty-Programm ist in das Turniersystem integriert, was zusätzliche Vorteile bei Wettbewerben ermöglicht. Wir schätzen Beständigkeit und bemühen uns, jede Programmstufe so attraktiv wie möglich zu gestalten.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierung und Stufen\n<\/h4>\n<ul>\n<li>• Automatische Registrierung bei Kontoerstellung<\/li>\n<li>• Stufen: Bronze (0-999 Punkte), Silber (1.000-4.999), Gold (5.000-19.999), Platin (20.000+)<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPunktevergabe\n<\/h4>\n<ul>\n<li>• 1 Punkt pro 10 Euro Einsatz bei Slots, 1 Punkt pro 50 Euro bei Tischspielen<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStufenvorteile\n<\/h4>\n<ul>\n<li>• Cashback 5-15%, 20-100 Freispiele, persönlicher Manager, erhöhte Limits<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPunkteumtausch\n<\/h4>\n<ul>\n<li>• 100 Punkte = 1 Euro Bonusguthaben oder 1 Freispiel auf ausgewähltem Slot<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Aktionen und spezielle Angebote\n<\/h3>\n<p>\nWir aktualisieren regelmäßig unser Angebot an Boni und speziellen Aktionen, damit Spieler immer interessante Spielmöglichkeiten finden. Das Willkommenspaket umfasst einen 100%-Bonus auf die erste Einzahlung bis zu 500 Euro und 200 Freispiele für beliebte Slots. Der wöchentliche Reload-Bonus ermöglicht 50% bis zu 700 Euro bei Kontoauffüllung an bestimmten Tagen. Das Cashback-Programm erstattet bis zu 15% der Nettoverluste pro Woche, die Mittel werden ohne Umsatzbedingungen gutgeschrieben. Saisonale Aktionen sind an Feiertage und große Sportereignisse gebunden, mit erhöhten Boni und Preisfonds. Slot-Turniere werden wöchentlich mit Preisfonds von 5.000 bis 50.000 Euro veranstaltet. Spezielle Angebote für neue Spiele umfassen Freispiele ohne Einzahlung und erhöhte Auszahlungsquoten. Wir organisieren Drops mit Sofortpreisen für aktive Spieler in Echtzeit. Festliche Verlosungen bieten die Chance, Gadgets, Reisen oder große Geldpreise zu gewinnen. Geburtstagsboni bieten persönliche Geschenke im Wert von bis zu 200 Euro. Freundewerbeaktionen ermöglichen einen Bonus für die Einladung eines neuen Spielers nach dessen erster Einzahlung. Wir veranstalten Themenwochen mit verdoppelten Loyalitätspunkten und exklusiven Belohnungen. Spezielle Konditionen für Krypto-Spieler umfassen erhöhte Boni bei Einzahlung in Bitcoin oder Ethereum. Alle Aktionen werden von transparenten Bedingungen und verständlichen Teilnahmeregeln begleitet. Wir bemühen uns, jedes Angebot so vorteilhaft und interessant wie möglich für unsere Spieler zu gestalten.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWillkommensbonus\n<\/h4>\n<ul>\n<li>• 100% bis zu 500€ + 200 Freispiele, Umsatzbedingung 35x<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWöchentliche Aktionen\n<\/h4>\n<ul>\n<li>• Reload: 50% bis 700€ + 50 Freispiele donnerstags<\/li>\n<li>• Cashback: bis 15% der Wochenverluste, Gutschrift montags<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTurniere und Sonderaktionen\n<\/h4>\n<ul>\n<li>• Slot-Turniere: Preisfonds 5.000–50.000€, wöchentliche Wettbewerbe<\/li>\n<li>• Saisonale Events: Weihnachts-, Sommer- und Feiertagsverlosungen mit Preisen bis 10.000€<\/li>\n<li>• Drops: Zufallspreise von 10 bis 1.000€ in Echtzeit<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPersönliche Boni\n<\/h4>\n<ul>\n<li>• Geburtstagsbonus: bis zu 200€ ohne Umsatzbedingung<\/li>\n<li>• Freundewerbung: 50€ nach erster Einzahlung des geworbenen Spielers<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpielangebot und Wettarten\n<\/h3>\n<p>\nUnser Casino bietet eine umfangreiche Spielesammlung, die die Vorlieben verschiedenster Spieler erfüllt. Die Bibliothek umfasst über 12.000 Titel von führenden weltweiten Software-Anbietern. Slots reichen von klassischen Drei-Walzen-Modellen über moderne Video-Slots mit Bonusrunden bis hin zu progressiven Jackpots. Tischspiele decken alle populären Varianten von Blackjack, Roulette, Baccarat und Poker ab. Das Live-Casino arbeitet in Echtzeit mit professionellen Dealern und wird in hoher Qualität übertragen. Wir bieten Wetten auf virtuellen Sport, einschließlich Fußball, Pferderennen und E-Sport-Disziplinen. Spiele mit Sofortgewinnen wie Rubbelkarten und Keno sind für schnelles Spielen verfügbar. Die Kollektion wird regelmäßig mit Neuheiten von Top-Anbietern aktualisiert, was für inhaltliche Vielfalt sorgt. Filter nach Anbieter, Spieltyp, Volatilität und Thema erleichtern die Suche nach passender Unterhaltung. Der Demo-Modus ermöglicht das Testen jedes Spiels ohne Risiko mit echtem Geld. Wir unterstützen Spiele mit verschiedenen Einsatzbereichen, von minimalen 0,10 Euro bis zu hohen Limits für High-Roller. Spezielle Funktionen wie Bonus-Kauf und Auto-Spins erhöhen den Komfort des Spielprozesses. Alle Spiele sind zertifiziert und verwenden einen geprüften Zufallszahlengenerator zur Gewährleistung von Fairness. Wir arbeiten mit Anbietern wie NetEnt, Pragmatic Play, Evolution, Microgaming und anderen Branchenführern zusammen. Die Mobile-Optimierung gewährleistet stabile Spielfunktionen auf Smartphones und Tablets. Unsere Plattform sorgt für schnelles Laden von Inhalten und minimale Verzögerungen selbst bei schwacher Verbindung.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKlassische Slots\n<\/h4>\n<ul>\n<li>• Drei-Walzen-Modelle, Fruchtthemen, einfache Regeln<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVideo-Slots und Features\n<\/h4>\n<ul>\n<li>• Moderne Grafiken, Bonusrunden, Megaways- und Cluster-Pays-Mechanik<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots und Tischspiele\n<\/h4>\n<ul>\n<li>• Progressive Jackpots: kumulierte Preise bis 500.000€<\/li>\n<li>• Roulette, Blackjack, Baccarat in verschiedenen Varianten<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLive-Casino und Spezialspiele\n<\/h4>\n<ul>\n<li>• Echte Dealer, interaktive Tische, HD-Übertragung<\/li>\n<li>• Virtueller Sport, Rubbelkarten, Keno mit Sofortergebnissen<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEinsatzbereiche und Spiellimits\n<\/h3>\n<p>\nWir gewährleisten flexible Einsatzoptionen, damit Spieler mit unterschiedlichem Budget komfortabel an Spielen teilnehmen können. Minimale und maximale Limits sind an die Besonderheiten jeder Spielkategorie angepasst. Für Slots mit niedriger Volatilität sind Einsätze ab 0,10 Euro verfügbar, ideal für längere Sessions. Hochvolatile Slots und Spiele mit Bonus-Kauf sehen einen Mindesteinsatz von 0,20–0,50 Euro vor. Maximale Einsätze bei Standard-Slots erreichen 100 Euro pro Spin, bei Premium-Spielen bis zu 500 Euro. Tischspiele bieten eine breite Spanne: Roulette akzeptiert Einsätze von 1 bis 10.000 Euro, Blackjack von 5 bis 5.000 Euro pro Hand. Im Live-Casino hängen die Limits vom jeweiligen Tisch ab und können von 0,50 bis 20.000 Euro variieren. Spiele mit progressivem Jackpot haben üblicherweise einen festen Einsatz für die Teilnahme am Hauptpreis. Virtueller Sport und Sofortspiele unterstützen Einsätze von 0,10 bis 200 Euro pro Runde. Wir analysieren regelmäßig Spielpräferenzen und passen bei Bedarf Limits an, um die Benutzererfahrung zu verbessern. Alle Einsatzbereiche werden klar in der Spieloberfläche vor Session-Beginn angezeigt.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #A07646;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Spieltyp<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min. Einsatz<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max. Einsatz<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Klassische Slots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">50 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Video-Slots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,20 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">100 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots mit Bonus-Kauf<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,50 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">200 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Progressive Jackpots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1,00 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5,00 € (fest)<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (Live)<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1,00 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">10.000 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (Live)<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5,00 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5.000 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtueller Sport<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">200 €<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sofortspiele<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10 €<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">50 €<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTurniere und Leaderboards: Teilnahme und Gewinne\n<\/h3>\n<p>\nWir veranstalten regelmäßige Turniere, die Spielern ermöglichen, um Preisfonds und zusätzliche Belohnungen zu konkurrieren. Die Teilnahme an den meisten Wettbewerben wird automatisch aktiviert, wenn in den angegebenen Slots oder Spielkategorien gespielt wird. Turnierpunkte werden basierend auf der Einsatzsumme, der Anzahl gewinnender Spins oder des Gesamtgewinns im Zeitraum vergeben. Einige Turniere berücksichtigen den Gewinnmultiplikator oder die Dauer der Spielsession zur Erstellung des Rankings. Das Leaderboard wird in Echtzeit aktualisiert, sodass Spieler ihre Position und Strategie verfolgen können. Preise werden unter den Top-Teilnehmern gemäß der veröffentlichten Auszahlungstabelle verteilt. Gewinne werden automatisch dem Guthaben gutgeschrieben, ohne dass ein zusätzlicher Antrag erforderlich ist. Wir veranstalten sowohl kurze Sprints von wenigen Stunden als auch längere Marathons mit einer Dauer von bis zu einer Woche. Spezielle Turniere für neue Spiele helfen Spielern, Neuheiten kennenzulernen und zusätzliche Boni zu erhalten. Teilnehmer des Loyalty-Programms erhalten Bonuspunkte zum Turnier-Ranking entsprechend ihrer Stufe. Wir gewährleisten Transparenz bei der Punktevergabe und veröffentlichen detaillierte Regeln für jeden Wettbewerb. Der Fortschritt kann im persönlichen Konto im Bereich \"Turniere\" oder über Pop-up-Benachrichtigungen während des Spiels verfolgt werden.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPunktevergabe und Ranking\n<\/h4>\n<ul>\n<li>• Punkte für Einsatzsumme, Spin-Anzahl, Gewinnhöhe oder Multiplikator<\/li>\n<li>• Ranking-Update: in Echtzeit mit max. 5 Minuten Verzögerung<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPreise und Turniertypen\n<\/h4>\n<ul>\n<li>• Preisplätze: meist Top-50 oder Top-100 Teilnehmer erhalten Belohnungen<\/li>\n<li>• Turnierarten: Slot-Sprints, Wochen-Marathons, exklusive VIP-Events<\/li>\n<li>• Auszahlung: automatische Gutschrift innerhalb 1 Stunde nach Turnierende<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie erfolgt die Kontoverifizierung?",
+                            "answer": "Für die Verifizierung müssen im persönlichen Konto eine Kopie des Ausweises und ein Adressnachweis hochgeladen werden. Der Prozess dauert normalerweise bis zu 24 Stunden.\n"
+                        },
+                        {
+                            "title": "Darf ich mehrere Konten haben?",
+                            "answer": "Nein, die Plattformregeln erlauben nur ein Konto pro Nutzer. Die Erstellung von Duplikaten kann zur Sperrung aller Konten führen.\n"
+                        },
+                        {
+                            "title": "Was passiert mit Bonusguthaben bei einer Auszahlung?",
+                            "answer": "Bonusguthaben und daraus erzielte Gewinne werden nach Erfüllung der Umsatzbedingungen für eine Auszahlung freigegeben.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
